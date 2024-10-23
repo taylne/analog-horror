@@ -1,0 +1,19 @@
+*{
+    font-family: fantasy
+}
+h1{
+    color: blue;
+}    
+
+
+#divp{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+
+.ss{
+    font-size: 30px
+}
